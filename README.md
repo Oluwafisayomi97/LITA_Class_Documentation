@@ -7,3 +7,11 @@ The  Data Analysis project aims to generate insight into the sales performance o
 
 ### Data sources
 The primary source of data used here is Data.csv and this is an open source dta that can be freely dowloded from an open source online such as kaggle or FRED or any other repository site.
+
+### Tools used
+- Microsoft Excel [Download Here](http://www.microsoft.com)
+  1.  For data cleaning
+  2.  For data analysis
+  3.  For data visualization
+- SQL-Structured Query Language for quering of data 
+- GitHub for Portfolio Buildibg.
